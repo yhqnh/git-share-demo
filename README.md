@@ -1,3 +1,3 @@
 # git-share-demo
 
-我来自feature A 1
+我来自master
